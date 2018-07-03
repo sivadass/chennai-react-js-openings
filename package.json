@@ -25,9 +25,14 @@
     "webpack": "^4.14.0"
   },
   "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
     "eslint": "^3.17.1",
     "eslint-config-loopback": "^8.0.0",
-    "nsp": "^2.1.0"
+    "nsp": "^3.2.1",
+    "webpack-cli": "^3.0.8"
   },
   "repository": {
     "type": "",
