@@ -3,9 +3,14 @@ import React from "react";
 class Header extends React.Component {
   render() {
     return (
-      <div className="container">
-        <h1>Job Board</h1>
-      </div>
+      <header className="header">
+        <a className="branding" href="/">
+          React JS Openings
+        </a>
+        <a className="button button-primary" href="/post-job">
+          Post a Job
+        </a>
+      </header>
     );
   }
 }
