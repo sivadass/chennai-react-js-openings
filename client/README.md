@@ -1,3 +1,3 @@
-## CWeb slient
+# React Job Board
 
-This is the place for your application front-end files.
+This is react job board app build to help fellow react devs in Chennai
